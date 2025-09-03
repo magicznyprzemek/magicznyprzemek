@@ -1,6 +1,6 @@
 # Hi! 👋
 
-💻 Software Developer, Student | .NET, C#, Python | Full-stack & Mobile
+💻 Software Developer, Student | Full-stack & Mobile
 
 ---
 
