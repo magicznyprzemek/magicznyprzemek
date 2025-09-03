@@ -5,9 +5,9 @@
 ---
 
 ## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![.NET](https://img.shields.io/badge/-DotNet-512BD4?style=flat&logo=.net)
 ![Xamarin](https://img.shields.io/badge/-Xamarin-3498DB?style=flat&logo=xamarin)
 ![MAUI](https://img.shields.io/badge/-MAUI-512BD4?style=flat&logo=.net)
