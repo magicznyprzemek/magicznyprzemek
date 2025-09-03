@@ -1,6 +1,7 @@
 # Hi! 👋
 
-💻 Student, Software Developer | Full-stack & Mobile
+💻 Passionate software developer with 5 years of programming experience and 2 years professionally in .NET.  
+Currently pursuing a Master's in Computer Science and constantly exploring new technologies to build clean, efficient, and modern applications.
 
 ---
 
