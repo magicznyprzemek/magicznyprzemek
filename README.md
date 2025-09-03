@@ -1,6 +1,6 @@
 # Hi! 👋
 
-💻 Software Developer, Student | Full-stack & Mobile
+💻 Student, Software Developer | Full-stack & Mobile
 
 ---
 
