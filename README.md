@@ -1,11 +1,7 @@
 # Hi! 👋
-
-💻 Passionate software developer with 5 years of programming experience and 2 years professionally in .NET.  
-
-Currently pursuing a Master's in Computer Science and constantly exploring new technologies to build clean, efficient, and modern applications.
-
+💻 Software developer with 2 years of professional experience, passionate about building clean, efficient, and modern applications.
+🎓 Currently pursuing a Master's degree in Computer Science and continuously exploring new technologies.
 ---
-
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
