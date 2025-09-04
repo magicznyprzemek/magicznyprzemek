@@ -1,6 +1,7 @@
 # Hi! 👋
 
 💻 Passionate software developer focused on building clean, efficient, and modern applications.
+
 🎓 Currently pursuing a Master's degree in Computer Science and continuously exploring new technologies.
 
 ---
