@@ -1,6 +1,9 @@
 # Hi! 👋
+
 💻 Software developer with 2 years of professional experience, passionate about building clean, efficient, and modern applications.
+
 🎓 Currently pursuing a Master's degree in Computer Science and continuously exploring new technologies.
+
 ---
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
